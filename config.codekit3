@@ -551,23 +551,29 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/10-resp-images\/7-fixed-images.html": {
+	"\/10-resp-images\/10-rwd.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/10-resp-images\/7-fixed-images.html",
+		"oAP": "\/10-resp-images\/10-rwd.html",
 		"oF": 0
 		},
-	"\/10-resp-images\/7-style.css": {
+	"\/10-resp-images\/10-rwd.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/10-resp-images\/10-rwd.html",
+		"oF": 0
+		},
+	"\/10-resp-images\/10-style.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/10-resp-images\/7-style-min.css",
+		"oAP": "\/10-resp-images\/10-style-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/10-resp-images\/7-style.scss": {
+	"\/10-resp-images\/10-style.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -575,7 +581,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/10-resp-images\/7-style.css",
+		"oAP": "\/10-resp-images\/10-style.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -609,11 +615,11 @@
 		},
 	"\/10-resp-images\/coach-2-600.jpg": {
 		"ft": 16384,
-		"iS": 25394,
+		"iS": 24785,
 		"oA": 0,
 		"oAP": "\/10-resp-images\/coach-2-600.jpg",
 		"oF": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/10-resp-images\/coach-3-1200.jpg": {
@@ -627,12 +633,40 @@
 		},
 	"\/10-resp-images\/coach-3-600.jpg": {
 		"ft": 16384,
-		"iS": 27849,
+		"iS": 26956,
 		"oA": 0,
 		"oAP": "\/10-resp-images\/coach-3-600.jpg",
 		"oF": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
+		},
+	"\/10-resp-images\/gym.jpg": {
+		"ft": 16384,
+		"iS": 131555,
+		"oA": 0,
+		"oAP": "\/10-resp-images\/gym.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/10-resp-images\/script.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/10-resp-images\/script-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/10-resp-images\/svg-sprite.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "\/10-resp-images\/svg-sprite.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		}
 	},
 "hooks": [
