@@ -461,13 +461,48 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/09-javascript\/9-rwd.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/09-javascript\/9-rwd.html",
+		"oF": 0
+		},
+	"\/09-javascript\/9-rwd.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/09-javascript\/9-rwd.html",
+		"oF": 0
+		},
+	"\/09-javascript\/9-style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/09-javascript\/9-style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/09-javascript\/9-style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/09-javascript\/9-style.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/09-javascript\/coach-1-1200.jpg": {
 		"ft": 16384,
 		"iS": 83208,
 		"oA": 0,
 		"oAP": "\/09-javascript\/coach-1-1200.jpg",
 		"oF": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/09-javascript\/coach-2-1200.jpg": {
@@ -476,7 +511,7 @@
 		"oA": 0,
 		"oAP": "\/09-javascript\/coach-2-1200.jpg",
 		"oF": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/09-javascript\/coach-3-1200.jpg": {
@@ -485,8 +520,36 @@
 		"oA": 0,
 		"oAP": "\/09-javascript\/coach-3-1200.jpg",
 		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/09-javascript\/gym.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/09-javascript\/gym.jpg",
+		"oF": 0,
 		"opt": 1,
 		"q": 100
+		},
+	"\/09-javascript\/script.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/09-javascript\/script-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/09-javascript\/svg-sprite.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "\/09-javascript\/svg-sprite.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/10-resp-images\/7-fixed-images.html": {
 		"ft": 8192,
