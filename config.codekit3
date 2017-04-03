@@ -9,11 +9,484 @@
 	],
 "creatorBuild": "25704",
 "files": {
-	"\/1-raw\/1-raw-from-slides.html": {
+	"\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/1-raw\/1-raw-from-slides.html",
+		"oAP": "\/.gitignore",
 		"oF": 0
+		},
+	"\/01-raw\/1-raw-from-slides.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/01-raw\/1-raw-from-slides.html",
+		"oF": 0
+		},
+	"\/02-fleshed-out-html\/2-raw-but-fleshed-out.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/02-fleshed-out-html\/2-raw-but-fleshed-out.html",
+		"oF": 0
+		},
+	"\/02-fleshed-out-html\/coach-1-1200.jpg": {
+		"ft": 16384,
+		"iS": 83208,
+		"oA": 0,
+		"oAP": "\/02-fleshed-out-html\/coach-1-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/02-fleshed-out-html\/coach-2-1200.jpg": {
+		"ft": 16384,
+		"iS": 66765,
+		"oA": 0,
+		"oAP": "\/02-fleshed-out-html\/coach-2-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/02-fleshed-out-html\/coach-3-1200.jpg": {
+		"ft": 16384,
+		"iS": 69794,
+		"oA": 0,
+		"oAP": "\/02-fleshed-out-html\/coach-3-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/03-foundation-detour\/3-foundation-for-fun.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/03-foundation-detour\/3-foundation-for-fun.html",
+		"oF": 0
+		},
+	"\/03-foundation-detour\/coach-1-1200.jpg": {
+		"ft": 16384,
+		"iS": 83208,
+		"oA": 0,
+		"oAP": "\/03-foundation-detour\/coach-1-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/03-foundation-detour\/coach-2-1200.jpg": {
+		"ft": 16384,
+		"iS": 66765,
+		"oA": 0,
+		"oAP": "\/03-foundation-detour\/coach-2-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/03-foundation-detour\/coach-3-1200.jpg": {
+		"ft": 16384,
+		"iS": 69794,
+		"oA": 0,
+		"oAP": "\/03-foundation-detour\/coach-3-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/04-basic-layout\/4-style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/04-basic-layout\/4-style-min.css",
+		"oF": 1,
+		"oS": 0
+		},
+	"\/04-basic-layout\/4-with-layout.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/04-basic-layout\/4-with-layout.html",
+		"oF": 0
+		},
+	"\/04-basic-layout\/coach-1-1200.jpg": {
+		"ft": 16384,
+		"iS": 83208,
+		"oA": 0,
+		"oAP": "\/04-basic-layout\/coach-1-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/04-basic-layout\/coach-2-1200.jpg": {
+		"ft": 16384,
+		"iS": 66765,
+		"oA": 0,
+		"oAP": "\/04-basic-layout\/coach-2-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/04-basic-layout\/coach-3-1200.jpg": {
+		"ft": 16384,
+		"iS": 69794,
+		"oA": 0,
+		"oAP": "\/04-basic-layout\/coach-3-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/05-adding-type\/5-style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/05-adding-type\/5-style-min.css",
+		"oF": 1,
+		"oS": 0
+		},
+	"\/05-adding-type\/5-with-type.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/05-adding-type\/5-with-type.html",
+		"oF": 0
+		},
+	"\/05-adding-type\/coach-1-1200.jpg": {
+		"ft": 16384,
+		"iS": 83208,
+		"oA": 0,
+		"oAP": "\/05-adding-type\/coach-1-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/05-adding-type\/coach-2-1200.jpg": {
+		"ft": 16384,
+		"iS": 66765,
+		"oA": 0,
+		"oAP": "\/05-adding-type\/coach-2-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/05-adding-type\/coach-3-1200.jpg": {
+		"ft": 16384,
+		"iS": 69794,
+		"oA": 0,
+		"oAP": "\/05-adding-type\/coach-3-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/06-sass\/6-abstracted-styles.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/06-sass\/6-abstracted-styles.html",
+		"oF": 0
+		},
+	"\/06-sass\/6-style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/06-sass\/6-style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/06-sass\/6-style.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/06-sass\/6-style.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/06-sass\/coach-1-1200.jpg": {
+		"ft": 16384,
+		"iS": 83208,
+		"oA": 0,
+		"oAP": "\/06-sass\/coach-1-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/06-sass\/coach-2-1200.jpg": {
+		"ft": 16384,
+		"iS": 66765,
+		"oA": 0,
+		"oAP": "\/06-sass\/coach-2-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/06-sass\/coach-3-1200.jpg": {
+		"ft": 16384,
+		"iS": 69794,
+		"oA": 0,
+		"oAP": "\/06-sass\/coach-3-1200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/07-icons\/7-icons.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/07-icons\/7-icons.html",
+		"oF": 0
+		},
+	"\/07-icons\/7-icons.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/07-icons\/7-icons.html",
+		"oF": 0
+		},
+	"\/07-icons\/7-style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/07-icons\/7-style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/07-icons\/7-style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/07-icons\/7-style.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/07-icons\/coach-1-1200.jpg": {
+		"ft": 16384,
+		"iS": 83208,
+		"oA": 0,
+		"oAP": "\/07-icons\/coach-1-1200.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/07-icons\/coach-2-1200.jpg": {
+		"ft": 16384,
+		"iS": 66765,
+		"oA": 0,
+		"oAP": "\/07-icons\/coach-2-1200.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/07-icons\/coach-3-1200.jpg": {
+		"ft": 16384,
+		"iS": 69794,
+		"oA": 0,
+		"oAP": "\/07-icons\/coach-3-1200.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/07-icons\/gulpfile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/07-icons\/gulpfile-min.js",
+		"oF": 1,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/07-icons\/icons\/icon-jumprope.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/07-icons\/icons\/icon-jumprope.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/07-icons\/icons\/icon-kettlebells.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/07-icons\/icons\/icon-kettlebells.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/07-icons\/icons\/icon-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/07-icons\/icons\/icon-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/07-icons\/icons\/icon-rings.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/07-icons\/icons\/icon-rings.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/07-icons\/icons\/icon-weights.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/07-icons\/icons\/icon-weights.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/07-icons\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/07-icons\/node_modules",
+		"oF": 0
+		},
+	"\/07-icons\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/07-icons\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/07-icons\/Random City Crossfit Icons.sketch": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/07-icons\/Random City Crossfit Icons.sketch",
+		"oF": 0
+		},
+	"\/07-icons\/svg-sprite.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "\/07-icons\/svg-sprite.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/08-rwd\/8-rwd.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/08-rwd\/8-rwd.html",
+		"oF": 0
+		},
+	"\/08-rwd\/8-rwd.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/08-rwd\/8-rwd.html",
+		"oF": 0
+		},
+	"\/08-rwd\/8-style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/08-rwd\/8-style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/08-rwd\/8-style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/08-rwd\/8-style.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/08-rwd\/coach-1-1200.jpg": {
+		"ft": 16384,
+		"iS": 83208,
+		"oA": 0,
+		"oAP": "\/08-rwd\/coach-1-1200.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/08-rwd\/coach-2-1200.jpg": {
+		"ft": 16384,
+		"iS": 66765,
+		"oA": 0,
+		"oAP": "\/08-rwd\/coach-2-1200.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/08-rwd\/coach-3-1200.jpg": {
+		"ft": 16384,
+		"iS": 69794,
+		"oA": 0,
+		"oAP": "\/08-rwd\/coach-3-1200.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/08-rwd\/gym.jpg": {
+		"ft": 16384,
+		"iS": 131555,
+		"oA": 0,
+		"oAP": "\/08-rwd\/gym.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/08-rwd\/svg-sprite.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "\/08-rwd\/svg-sprite.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/09-javascript\/coach-1-1200.jpg": {
+		"ft": 16384,
+		"iS": 83208,
+		"oA": 0,
+		"oAP": "\/09-javascript\/coach-1-1200.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/09-javascript\/coach-2-1200.jpg": {
+		"ft": 16384,
+		"iS": 66765,
+		"oA": 0,
+		"oAP": "\/09-javascript\/coach-2-1200.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/09-javascript\/coach-3-1200.jpg": {
+		"ft": 16384,
+		"iS": 69794,
+		"oA": 0,
+		"oAP": "\/09-javascript\/coach-3-1200.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/10-resp-images\/7-fixed-images.html": {
 		"ft": 8192,
@@ -97,419 +570,6 @@
 		"oF": 0,
 		"opt": 1,
 		"q": 100
-		},
-	"\/2-fleshed-out-html\/2-raw-but-fleshed-out.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/2-fleshed-out-html\/2-raw-but-fleshed-out.html",
-		"oF": 0
-		},
-	"\/2-fleshed-out-html\/coach-1-1200.jpg": {
-		"ft": 16384,
-		"iS": 83208,
-		"oA": 0,
-		"oAP": "\/2-fleshed-out-html\/coach-1-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/2-fleshed-out-html\/coach-2-1200.jpg": {
-		"ft": 16384,
-		"iS": 66765,
-		"oA": 0,
-		"oAP": "\/2-fleshed-out-html\/coach-2-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/2-fleshed-out-html\/coach-3-1200.jpg": {
-		"ft": 16384,
-		"iS": 69794,
-		"oA": 0,
-		"oAP": "\/2-fleshed-out-html\/coach-3-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/3-foundation-detour\/3-foundation-for-fun.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/3-foundation-detour\/3-foundation-for-fun.html",
-		"oF": 0
-		},
-	"\/3-foundation-detour\/coach-1-1200.jpg": {
-		"ft": 16384,
-		"iS": 83208,
-		"oA": 0,
-		"oAP": "\/3-foundation-detour\/coach-1-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/3-foundation-detour\/coach-2-1200.jpg": {
-		"ft": 16384,
-		"iS": 66765,
-		"oA": 0,
-		"oAP": "\/3-foundation-detour\/coach-2-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/3-foundation-detour\/coach-3-1200.jpg": {
-		"ft": 16384,
-		"iS": 69794,
-		"oA": 0,
-		"oAP": "\/3-foundation-detour\/coach-3-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/4-basic-layout\/4-style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/4-basic-layout\/4-style-min.css",
-		"oF": 1,
-		"oS": 0
-		},
-	"\/4-basic-layout\/4-with-layout.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/4-basic-layout\/4-with-layout.html",
-		"oF": 0
-		},
-	"\/4-basic-layout\/coach-1-1200.jpg": {
-		"ft": 16384,
-		"iS": 83208,
-		"oA": 0,
-		"oAP": "\/4-basic-layout\/coach-1-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/4-basic-layout\/coach-2-1200.jpg": {
-		"ft": 16384,
-		"iS": 66765,
-		"oA": 0,
-		"oAP": "\/4-basic-layout\/coach-2-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/4-basic-layout\/coach-3-1200.jpg": {
-		"ft": 16384,
-		"iS": 69794,
-		"oA": 0,
-		"oAP": "\/4-basic-layout\/coach-3-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/5-adding-type\/5-style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/5-adding-type\/5-style-min.css",
-		"oF": 1,
-		"oS": 0
-		},
-	"\/5-adding-type\/5-with-type.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/5-adding-type\/5-with-type.html",
-		"oF": 0
-		},
-	"\/5-adding-type\/coach-1-1200.jpg": {
-		"ft": 16384,
-		"iS": 83208,
-		"oA": 0,
-		"oAP": "\/5-adding-type\/coach-1-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/5-adding-type\/coach-2-1200.jpg": {
-		"ft": 16384,
-		"iS": 66765,
-		"oA": 0,
-		"oAP": "\/5-adding-type\/coach-2-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/5-adding-type\/coach-3-1200.jpg": {
-		"ft": 16384,
-		"iS": 69794,
-		"oA": 0,
-		"oAP": "\/5-adding-type\/coach-3-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/6-sass\/6-abstracted-styles.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/6-sass\/6-abstracted-styles.html",
-		"oF": 0
-		},
-	"\/6-sass\/6-style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/6-sass\/6-style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/6-sass\/6-style.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/6-sass\/6-style.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
-	"\/6-sass\/coach-1-1200.jpg": {
-		"ft": 16384,
-		"iS": 83208,
-		"oA": 0,
-		"oAP": "\/6-sass\/coach-1-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/6-sass\/coach-2-1200.jpg": {
-		"ft": 16384,
-		"iS": 66765,
-		"oA": 0,
-		"oAP": "\/6-sass\/coach-2-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/6-sass\/coach-3-1200.jpg": {
-		"ft": 16384,
-		"iS": 69794,
-		"oA": 0,
-		"oAP": "\/6-sass\/coach-3-1200.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/7-icons\/7-icons.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/7-icons\/7-icons.html",
-		"oF": 0
-		},
-	"\/7-icons\/7-icons.kit": {
-		"ft": 2048,
-		"oA": 0,
-		"oAP": "\/7-icons\/7-icons.html",
-		"oF": 0
-		},
-	"\/7-icons\/7-style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/7-icons\/7-style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/7-icons\/7-style.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/7-icons\/7-style.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/7-icons\/coach-1-1200.jpg": {
-		"ft": 16384,
-		"iS": 83208,
-		"oA": 0,
-		"oAP": "\/7-icons\/coach-1-1200.jpg",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/7-icons\/coach-2-1200.jpg": {
-		"ft": 16384,
-		"iS": 66765,
-		"oA": 0,
-		"oAP": "\/7-icons\/coach-2-1200.jpg",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/7-icons\/coach-3-1200.jpg": {
-		"ft": 16384,
-		"iS": 69794,
-		"oA": 0,
-		"oAP": "\/7-icons\/coach-3-1200.jpg",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/7-icons\/gulpfile.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/7-icons\/gulpfile-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/7-icons\/icons\/icon-jumprope.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/7-icons\/icons\/icon-jumprope.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/7-icons\/icons\/icon-kettlebells.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/7-icons\/icons\/icon-kettlebells.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/7-icons\/icons\/icon-logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/7-icons\/icons\/icon-logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/7-icons\/icons\/icon-rings.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/7-icons\/icons\/icon-rings.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/7-icons\/icons\/icon-weights.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/7-icons\/icons\/icon-weights.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/7-icons\/node_modules": {
-		"ft": 65536,
-		"oA": 2,
-		"oAP": "\/build\/7-icons\/node_modules",
-		"oF": 0
-		},
-	"\/7-icons\/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/7-icons\/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/7-icons\/Random City Crossfit Icons.sketch": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/7-icons\/Random City Crossfit Icons.sketch",
-		"oF": 0
-		},
-	"\/7-icons\/svg-sprite.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 1,
-		"oAP": "\/7-icons\/svg-sprite.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/8-rwd\/coach-1-1200.jpg": {
-		"ft": 16384,
-		"iS": 83208,
-		"oA": 0,
-		"oAP": "\/8-rwd\/coach-1-1200.jpg",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/8-rwd\/coach-2-1200.jpg": {
-		"ft": 16384,
-		"iS": 66765,
-		"oA": 0,
-		"oAP": "\/8-rwd\/coach-2-1200.jpg",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/8-rwd\/coach-3-1200.jpg": {
-		"ft": 16384,
-		"iS": 69794,
-		"oA": 0,
-		"oAP": "\/8-rwd\/coach-3-1200.jpg",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/9-javascript\/coach-1-1200.jpg": {
-		"ft": 16384,
-		"iS": 83208,
-		"oA": 0,
-		"oAP": "\/9-javascript\/coach-1-1200.jpg",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/9-javascript\/coach-2-1200.jpg": {
-		"ft": 16384,
-		"iS": 66765,
-		"oA": 0,
-		"oAP": "\/9-javascript\/coach-2-1200.jpg",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/9-javascript\/coach-3-1200.jpg": {
-		"ft": 16384,
-		"iS": 69794,
-		"oA": 0,
-		"oAP": "\/9-javascript\/coach-3-1200.jpg",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
 		}
 	},
 "hooks": [
@@ -518,7 +578,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 511033851,
-	"displayValue": "in prog workshop materials",
+	"displayValue": "2017-Workshop",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-grumpy"
 	},
